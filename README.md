@@ -7,7 +7,7 @@ The learning objectives of this assignment are to:
 
 # Setup your environment
 
-First, carefully follow the *General Instructions for Programming Assignments*.
+First, please follow the *General Instructions for Programming*.
 
 To install the libraries required for this assignment run:
 
